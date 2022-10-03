@@ -26,3 +26,5 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+Projeto backend de uma imobiliária de propriedades, com todo o banco de dados montado, possibilidade de adição, listagem, edição e exclusão de propriedades associadas aos seus clientes. Projeto baseado em Javascript juntamente do framework Adonis JS.
